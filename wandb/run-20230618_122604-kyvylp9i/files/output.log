@@ -67,3 +67,7 @@ step 63: train loss 2.5477, val loss 2.5420
 step 64: train loss 2.5464, val loss 2.5386
 step 65: train loss 2.5429, val loss 2.5359
 step 66: train loss 2.5419, val loss 2.5350
+step 67: train loss 2.5395, val loss 2.5339
+step 68: train loss 2.5337, val loss 2.5295
+step 69: train loss 2.5340, val loss 2.5268
+step 70: train loss 2.5351, val loss 2.5257
