@@ -1,0 +1,208 @@
+{
+    "os": "Linux-5.4.0-148-generic-x86_64-with-glibc2.29",
+    "python": "3.8.10",
+    "heartbeatAt": "2023-06-18T12:26:05.343228",
+    "startedAt": "2023-06-18T12:26:04.539369",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/Subhanshu-2411/nano_GPT.git",
+        "commit": "5fefba7f60d89c636ee55920879f9d0ee935f468"
+    },
+    "email": null,
+    "root": "/home/subhanshu20135/nano_GPT",
+    "host": "LS214",
+    "username": "subhanshu20135",
+    "executable": "/usr/bin/python3",
+    "cpu_count": 16,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 2415.68796875,
+        "min": 2200.0,
+        "max": 3900.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2133.158,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 4273.606,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2133.383,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2132.683,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 4288.581,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2129.072,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2132.22,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2133.294,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2385.116,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2394.911,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1910.337,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1913.53,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2066.309,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2363.668,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2079.799,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2197.932,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2133.226,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 4265.888,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2128.434,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2133.034,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 4264.56,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2133.467,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2122.072,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2133.284,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2390.731,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2395.361,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1911.931,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1916.185,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2020.097,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2296.399,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2027.164,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2362.583,
+            "min": 2200.0,
+            "max": 3900.0
+        }
+    ],
+    "disk": {
+        "total": 7037.789863586426,
+        "used": 6719.052509307861
+    },
+    "gpu": "RTX A5000",
+    "gpu_count": 2,
+    "gpu_devices": [
+        {
+            "name": "RTX A5000",
+            "memory_total": 25434652672
+        },
+        {
+            "name": "RTX A6000",
+            "memory_total": 51050315776
+        }
+    ],
+    "memory": {
+        "total": 125.70144653320312
+    }
+}
